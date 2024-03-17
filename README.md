@@ -5,8 +5,3 @@
 <br/>
 
 ## <div align="center">👨‍💻 Hello. 🚀</div>  <br/>
-
-<br/>
-
-# Github Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=kksumm123&show_icons=true"></br>
