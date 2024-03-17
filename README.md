@@ -10,5 +10,7 @@
 
 ## 김성운
 
+📝 <a href="https://fanatical-brian-875.notion.site/bb54ae7cf80d4209aa63e2be10d6a1d4?pvs=74" alt="">Notion</a>
+
 ## Career
  - 2021.11 ~ 현재 : 알로하팩토리 게임 개발자
